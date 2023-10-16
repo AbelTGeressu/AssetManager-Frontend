@@ -1,0 +1,24 @@
+{
+    "employees": [
+      {
+        "EmployeeId": 1,
+        "GlobalId": "G123",
+        "FirstName": "Alice",
+        "LastName": "Johnson",
+        "Email": "alice.johnson@example.com",
+        "Department": "Engineering",
+        "Position": "Software Engineer"
+      },
+      {
+        "EmployeeId": 2,
+        "GlobalId": "G124",
+        "FirstName": "Bob",
+        "LastName": "Smith",
+        "Email": "bob.smith@example.com",
+        "Department": "Marketing",
+        "Position": "Marketing Specialist"
+      }
+      
+    ]
+  }
+  

@@ -1,0 +1,10 @@
+
+{
+    "routes": {
+      "/Assignments": "/Assignments",
+      "/Assets": "/Assets",
+      "/Contracts": "/Contracts",
+      "/Employees": "/Employees"
+    }
+  }
+  

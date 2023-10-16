@@ -1,0 +1,329 @@
+{
+  "Assets": [
+    {
+      "id": 1,
+      "AssetType": "Mobile Phone",
+      "Brand": "Apple",
+      "Model": "iPhone 14",
+      "SerialNumber": "7xxxxxx01",
+      "Imeinumber1": "XXX",
+      "Imeinumber2": "XXX",
+      "Capacity": "256 GB",
+      "Accessories": "Apple 20W USB-C Adapter + Apple Charging Cable",
+      "AssetStatus": "Retrieved",
+      "PurchaseDate": "1/5/2023",
+      "WarrantyExpiryDate": "1/5/2025"
+    },
+    {
+      "id": 2,
+      "AssetType": "Mobile Phone",
+      "Brand": "Apple",
+      "Model": "iPhone 14",
+      "SerialNumber": "7xxxxxx01",
+      "Imeinumber1": "XXX",
+      "Imeinumber2": "XXX",
+      "Capacity": "256 GB",
+      "Accessories": "Apple 20W USB-C Adapter + Apple Charging Cable",
+      "AssetStatus": "In Use",
+      "PurchaseDate": "1/5/2023",
+      "WarrantyExpiryDate": "1/1/2025"
+    },
+    {
+      "id": 3,
+      "AssetType": "Mobile Phone",
+      "Brand": "Samsung",
+      "Model": "Galaxy S23",
+      "SerialNumber": "7xxxxxx02",
+      "Imeinumber1": "XXX",
+      "Imeinumber2": "XXX",
+      "Capacity": "128 GB",
+      "Accessories": "Samsung Charging Cable + Phone Case + Screen Protection",
+      "AssetStatus": "Not In Use",
+      "PurchaseDate": "1/5/2023",
+      "WarrantyExpiryDate": "1/1/2025"
+    },
+    {
+      "id": 4,
+      "AssetType": "Mobile Phone",
+      "Brand": "Apple",
+      "Model": "iPhone 14",
+      "SerialNumber": "YEJGQ019XT",
+      "Imeinumber1": "352298631231069",
+      "Imeinumber2": "XXX",
+      "Accessories": "",
+      "Capacity": "",
+      "AssetStatus": "Retrieved",
+      "PurchaseDate": "19/6/2023",
+      "WarrantyExpiryDate": ""
+    },
+    {
+      "id": 5,
+      "AssetType": "Mobile Phone",
+      "Brand": "Apple",
+      "Model": "iPhone 13",
+      "SerialNumber": "P1V2G9YFTV",
+      "Imeinumber1": "359451182020992",
+      "Imeinumber2": "XXX",
+      "Accessories": "",
+      "Capacity": "",
+      "AssetStatus": "In Use",
+      "PurchaseDate": "23/3/2022",
+      "WarrantyExpiryDate": ""
+    },
+    {
+      "id": 6,
+      "AssetType": "Mobile Phone",
+      "Brand": "Apple",
+      "Model": "iPhone 13",
+      "SerialNumber": "HCP71GC63Q",
+      "Imeinumber1": "(item ID)",
+      "Imeinumber2": "359451182101693",
+      "Accessories": "",
+      "Capacity": "",
+      "AssetStatus": "In Use",
+      "PurchaseDate": "23/3/2022",
+      "WarrantyExpiryDate": ""
+    },
+    {
+      "id": 7,
+      "AssetType": "Mobile Phone",
+      "Brand": "Samsung",
+      "Model": "Galaxy S22",
+      "SerialNumber": "R3CT30F4E3F",
+      "Imeinumber1": "35033005870278",
+      "Imeinumber2": "XXX",
+      "Accessories": "",
+      "Capacity": "",
+      "AssetStatus": "In Use",
+      "PurchaseDate": "23/3/2022",
+      "WarrantyExpiryDate": ""
+    },
+    {
+      "id": 8,
+      "AssetType": "Mobile Phone",
+      "Brand": "Samsung",
+      "Model": "Galaxy S23",
+      "SerialNumber": "R3CT30F44RW",
+      "Imeinumber1": "350330058699643",
+      "Imeinumber2": "XXX",
+      "Accessories": "",
+      "Capacity": "",
+      "AssetStatus": "In Use",
+      "PurchaseDate": "23/3/2022",
+      "WarrantyExpiryDate": ""
+    },
+    {
+      "id": 9,
+      "AssetType": "Mobile Phone",
+      "Brand": "Apple",
+      "Model": "iPhone 13",
+      "SerialNumber": "FHX563VSXD",
+      "Imeinumber1": "359451181718307",
+      "Imeinumber2": "XXX",
+      "Accessories": "",
+      "Capacity": "",
+      "AssetStatus": "In Use",
+      "PurchaseDate": "5/5/2022",
+      "WarrantyExpiryDate": ""
+    },
+    {
+      "id": 10,
+      "AssetType": "Mobile Phone",
+      "Brand": "Apple",
+      "Model": "iPhone 13",
+      "SerialNumber": "T5W5P2KM1X",
+      "Imeinumber1": "352355502352935",
+      "Imeinumber2": "XXX",
+      "Accessories": "2032395 (user didn't exist)",
+      "Capacity": "",
+      "AssetStatus": "In Use",
+      "PurchaseDate": "22/3/2022",
+      "WarrantyExpiryDate": ""
+    },
+    {
+      "id": 11,
+      "AssetType": "Mobile Phone",
+      "Brand": "Apple",
+      "Model": "iPhone 13",
+      "SerialNumber": "PQ22KLQGDT",
+      "Imeinumber1": "359214461502415",
+      "Imeinumber2": "XXX",
+      "Accessories": "",
+      "Capacity": "",
+      "AssetStatus": "In Use",
+      "PurchaseDate": "22/3/2022",
+      "WarrantyExpiryDate": ""
+    }
+  ],
+  "Contracts": [
+    {
+      "id": 1,
+      "Provider": "GSM Provider",
+      "PhoneNumber": "xxxx",
+      "Pinnumber": "xxxx",
+      "Puknumber": "xxxx",
+      "ContractStartDate": "1/5/2023",
+      "ContractEndDate": "1/6/2023",
+      "MonthlyCost": 20,
+      "DataLimit": "5 GB"
+    },
+    {
+      "id": 2,
+      "Provider": "GSM Provider",
+      "PhoneNumber": "xxxx",
+      "Pinnumber": "xxxx",
+      "Puknumber": "xxxx",
+      "ContractStartDate": "6/6/2023",
+      "ContractEndDate": null,
+      "MonthlyCost": 30,
+      "DataLimit": "10 GB"
+    }
+   
+  ],
+ 
+  "Employees": [
+    {
+      "Id": 1,
+      "GlobalId": "4xxxxx",
+      "FirstName": "Sven",
+      "LastName": "Hiess",
+      "Email": "sven.hiess@example.com",
+      "Department": "IT",
+      "Position": "IT Specialist"
+    },
+    {
+      "Id": 2,
+      "GlobalId": "4666113",
+      "FirstName": "Aykut",
+      "LastName": "Eris",
+      "Email": "aykut.eris@example.com",
+      "Department": "IT",
+      "Position": "IT Manager"
+    },
+    {
+      "Id": 3,
+      "GlobalId": "4724105",
+      "FirstName": "Lidiia",
+      "LastName": "Rogovskaia",
+      "Email": "lidiia.rogovskaia@example.com",
+      "Department": "Unknown",
+      "Position": "Unknown"
+    },
+    {
+      "Id": 4,
+      "GlobalId": "1764",
+      "FirstName": "Katrin",
+      "LastName": "Bogade",
+      "Email": "katrin.bogade@example.com",
+      "Department": "Unknown",
+      "Position": "Unknown"
+    },
+    {
+      "Id": 5,
+      "GlobalId": "4163455",
+      "FirstName": "Manish",
+      "LastName": "Vasudev",
+      "Email": "manish.vasudev@example.com",
+      "Department": "Unknown",
+      "Position": "Unknown"
+    },
+    {
+      "Id": 6,
+      "GlobalId": "2009724",
+      "FirstName": "Marcus",
+      "LastName": "Brandel",
+      "Email": "marcus.brandel@example.com",
+      "Department": "Unknown",
+      "Position": "Unknown"
+    },
+    {
+      "Id": 7,
+      "GlobalId": "4000812",
+      "FirstName": "Claudia",
+      "LastName": "Brandel",
+      "Email": "claudia.brandel@example.com",
+      "Department": "Unknown",
+      "Position": "Unknown"
+    },
+    {
+      "Id": 8,
+      "GlobalId": "1335324",
+      "FirstName": "Edon",
+      "LastName": "Durguti",
+      "Email": "edon.durguti@example.com",
+      "Department": "Unknown",
+      "Position": "Unknown"
+    },
+    {
+      "Id": 9,
+      "GlobalId": "4552405",
+      "FirstName": "Julian",
+      "LastName": "Reci",
+      "Email": "julian.reci@example.com",
+      "Department": "Unknown",
+      "Position": "Unknown"
+    },
+    {
+      "Id": 10,
+      "GlobalId": "4581843",
+      "FirstName": "Sarah-jane",
+      "LastName": "Hamilton",
+      "Email": "sarah-jane.hamilton@example.com",
+      "Department": "Unknown",
+      "Position": "Unknown"
+    }
+  ],
+
+  "Assignments":[
+    {
+      "Id": 1,
+      "EmployeeId": 1,
+      "AssetId": 1,
+      "ContractId": 1,
+      "AssignmentDate": "2023-05-01T00:00:00",
+      "ReturnDate": null,
+      "Status": "Assigned",
+      "ChangeLogId": null
+    },
+    {
+      "Id": 2,
+      "EmployeeId": 2,
+      "AssetId": 2,
+      "ContractId": 1,
+      "AssignmentDate": "2023-05-01T00:00:00",
+      "ReturnDate": null,
+      "Status": "Assigned",
+      "ChangeLogId": null
+    },
+    {
+      "Id": 3,
+      "EmployeeId": 3,
+      "AssetId": 3,
+      "ContractId": null,
+      "AssignmentDate": null,
+      "ReturnDate": null,
+      "Status": "Not Assigned",
+      "ChangeLogId": null
+    },
+    {
+      "Id": 4,
+      "EmployeeId": 4,
+      "AssetId": 4,
+      "ContractId": null,
+      "AssignmentDate": null,
+      "ReturnDate": null,
+      "Status": "Not Assigned",
+      "ChangeLogId": null
+    },
+    {
+      "Id": 5,
+      "EmployeeId": 5,
+      "AssetId": 5,
+      "ContractId": null,
+      "AssignmentDate": "2022-03-23T00:00:00",
+      "ReturnDate": null,
+      "Status": "Assigned",
+      "ChangeLogId": null
+    }
+  ]
+}
